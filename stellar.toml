@@ -13,14 +13,14 @@ ORG_URL="https://DutchMedicineDog.com/"
 ORG_LOGO="
 ORG_DESCRIPTION="
 ORG_KEYBASE="
-ORG_TWITTER="@DutchMedDog"
+ORG_TWITTER="https://twitter.com/DutchMedDog"
 ORG_OFFICIAL_EMAIL="dutchmedicinedog@gmail.com"
 
 [[CURRENCIES]]
 code="DMDT"
 issuer="GBHE6BHHQXQSNPGR52Q4656AQW2GYIXTXW3U3GBMIWHWOAFQQJJSDHKH"
 display_decimals=7
-fixed_number=000000000
+fixed_number=00000000
 is_asset_anchored=false
 name="DutchMedicineDogToken"
 desc="Duch Dog NFT artist"
