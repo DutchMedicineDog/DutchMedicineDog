@@ -47,7 +47,7 @@ Stay tuned for the latest updates!
 
 Supply:
 
-DMDT has a maximum of 10.000.000 tokens (10 million) this number is locked and can’t ever be changed again.
+DMDT has a maximum of 50.000.000 tokens (50 million) this number is locked and can’t ever be changed again.
 
 So, in the future there is only an option to burn tokens.
 
