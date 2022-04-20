@@ -25,7 +25,7 @@ is_asset_anchored=false
 name="DutchMedicineDogToken"
 desc="Duch Dog NFT artist"
 conditions="10.000.000 supply. acount will be locked if everything is setup and done!"
-image=" "
+image="https://dutchmedicinedog.com/wp-content/uploads/2022/04/B6E7EAA4-BD78-4EA3-8E06-83DF551B4D8A_1_201_a.jpeg"
 
 # DutchMedicineDogToken was issued using the open and inclusive Stellar blockchain network.
 # Home Domain: DutchMedicineDog.com
