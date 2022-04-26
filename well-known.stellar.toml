@@ -1,0 +1,36 @@
+VERSION="2.0.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GBHE6BHHQXQSNPGR52Q4656AQW2GYIXTXW3U3GBMIWHWOAFQQJJSDHK",
+"GALLAAUECD4AEA32WXQK3DYGZKYEQTMXEURLRBFDHSYWASI4FRJGW5EU"
+]
+
+[DOCUMENTATION]
+ORG_NAME="DutchMedicineDog"
+ORG_URL="https://www.dutchmedicinedog.com"
+ORG_LOGO="https://dutchmedicinedog.com/wp-content/uploads/2022/04/B6E7EAA4-BD78-4EA3-8E06-83DF551B4D8A_1_201_a-1-768x768.jpeg"
+ORG_DESCRIPTION="The inspiration came from the Dutch culture how the world sees us. Every time when we go on vacation and say we are from the Netherlands people get a picture-perfect image of “our” country in their mind.Unfortunately, is this image driven by drugs, coffeeshops, flowers, windmills, cheese, and of course our red-light districts.Not all the above are that bad to be linked with but there are so much more then only these typical things.That’s why we came up with the idea to impress the world with our very own NFT collection.The cartoon version of how the world sees the Netherlands. With our famous Bulldog as star in the middle."
+ORG_KEYBASE="dutchmedicinedog"
+ORG_TWITTER="DutchMedDog"
+ORG_GITHUB="DutchMedicineDog"
+ORG_OFFICIAL_EMAIL="dutchmedicinedog@gmail.com"
+
+[[PRINCIPALS]]
+email="DutchMedicineDog@gmail.com"
+keybase="dutchmedicinedog"
+twitter="DutchMedDog"
+github="DutchMedicineDog"
+id_photo_hash="792a6d41-5a1c-4e14-9ab2-8508bdae757a.jpg "
+verification_photo_hash="792a6d41-5a1c-4e14-9ab2-8508bdae757a.jpg "
+
+[[CURRENCIES]]
+code="DMDT"
+issuer="GBHE6BHHQXQSNPGR52Q4656AQW2GYIXTXW3U3GBMIWHWOAFQQJJSDHKH "
+display_decimals=7
+name="DutchMedicineDogToken"
+desc="DMDT has a maximum of 50.000.000 tokens (50 million) this number is locked and can’t ever be changed again.So, in the future there is only an option to burn tokens.The Maximum on our NFT collection is 1.000 (1k).500 will be running on Ethereum (ERC20).500 will be running on Stellar"
+image="https://dutchmedicinedog.com/wp-content/uploads/2022/04/B6E7EAA4-BD78-4EA3-8E06-83DF551B4D8A_1_201_a-1-768x768.jpeg"
+
+#homedomain:dutchmedicinedog.com
