@@ -29,8 +29,12 @@ verification_photo_hash="792a6d41-5a1c-4e14-9ab2-8508bdae757a.jpg "
 code="DMDT"
 issuer="GBHE6BHHQXQSNPGR52Q4656AQW2GYIXTXW3U3GBMIWHWOAFQQJJSDHKH "
 display_decimals=7
+fixed_number=50000000
+is_asset_anchored=false
 name="DutchMedicineDogToken"
 desc="DMDT has a maximum of 50.000.000 tokens (50 million) this number is locked and can’t ever be changed again.So, in the future there is only an option to burn tokens.The Maximum on our NFT collection is 1.000 (1k).500 will be running on Ethereum (ERC20).500 will be running on Stellar"
 image="https://dutchmedicinedog.com/wp-content/uploads/2022/04/B6E7EAA4-BD78-4EA3-8E06-83DF551B4D8A_1_201_a-1-768x768.jpeg"
 
+# DutchMedicineDogToken (DMDT) Token was issued using the open and inclusive Stellar blockchain network.
 #homedomain:dutchmedicinedog.com
+#DutchMedicineDogToken
